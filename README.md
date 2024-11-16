@@ -1,6 +1,6 @@
 # EXNO7AI# 
 Logic Programming –  Logic Circuit Design
-### DATE:                                                                            
+### DATE: 08-09-2024                                                                       
 ### REGISTER NUMBER : 212221060180
 ### AIM: 
 To write a logic program to design a circuit like half adder and half subtractor.
